@@ -50,7 +50,7 @@
   --interactive-hover: #eee;
   --interactive-active: #fff;
   --interactive-muted: #777;
-  --background-primary: transparent;
+  --background-primary: #000;
   --background-secondary: rgb(0, 0, 0, 0.3);
   --background-secondary-alt: transparent;
   --background-tertiary: transparent;
