@@ -52,10 +52,10 @@
   --interactive-muted: #777;
   --background-primary: #transparent;
   --background-secondary: rgb(0, 0, 0, 0.3);
-  --background-secondary-alt: #000;
-  --background-tertiary: #000;
+  --background-secondary-alt: #transparent;
+  --background-tertiary: #transparent;
   --background-accent: #4f545c;
-  --background-floating: #000;
+  --background-floating: #transparent;
   --background-mobile-primary: #36393f;
   --background-mobile-secondary: #2f3136;
   --background-modifier-hover: rgb(255, 255, 255, 0.05);
