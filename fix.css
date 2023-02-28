@@ -1,4 +1,3 @@
-@@ -0,0 +1,1583 @@
 :root {
   --version: "Frosted Glass 2.0.15";
   --TB-top: calc(var(--server-container) + var(--window-padding));
@@ -55,7 +54,7 @@
   --background-secondary-alt: transparent;
   --background-tertiary: transparent;
   --background-accent: #4f545c;
-  --background-floating: #000;
+  --background-floating: #000
   --background-mobile-primary: #36393f;
   --background-mobile-secondary: #2f3136;
   --background-modifier-hover: rgb(255, 255, 255, 0.05);
@@ -234,7 +233,7 @@ textarea {
 #app-mount .quickswitcher-pKcM9U,
 #app-mount .root-1gCeng.wrapper-2ZbzR9,
 #app-mount .modalRoot-1Kx4Hb,
-#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-1Pkza4,
+#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-_bVAAt,
 #app-mount .popoutContainer-2wbmiM,
 #app-mount .userProfileModalOuter-1FYL8T,
 #app-mount .container-2O1UgZ,
@@ -260,7 +259,7 @@ textarea {
 #app-mount .quickswitcher-pKcM9U::before,
 #app-mount .root-1gCeng.wrapper-2ZbzR9::before,
 #app-mount .modalRoot-1Kx4Hb::before,
-#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-1Pkza4::before,
+#app-mount .container-3JTnYm.thin-1ybCId.scrollerBase-_1Pkza4::before,
 #app-mount .popoutContainer-2wbmiM::before,
 #app-mount .userProfileModalOuter-1FYL8T::before,
 #app-mount .container-2O1UgZ::before,
@@ -476,10 +475,10 @@ textarea {
 #app-mount .guilds-2JjMmN {
   background-color: transparent;
 }
-#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4 {
+#app-mount .guilds-2JjMmN .scrollerBase-_1Pkza4 {
   background-color: rgb(0, 0, 0, var(--serverlist-brightness));
 }
-#app-mount .guilds-2JjMmN .scrollerBase-1Pkza4::-webkit-scrollbar {
+#app-mount .guilds-2JjMmN .scrollerBase-_1Pkza4::-webkit-scrollbar {
   display: none;
 }
 
@@ -800,7 +799,7 @@ textarea {
   overflow: hidden !important;
   position: relative;
   border-radius: 8px;
-  opacity: 90;
+  opacity: 0;
   animation: fadeIn 0.3s ease forwards;
   padding: 0;
 }
@@ -843,7 +842,7 @@ textarea {
   margin: 0 8px 8px;
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerNormal-T_seeN {
-  background: var(--black);
+  background: transparent;
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerPlaying-j0WQBV {
   background: var(--gradient-50);
@@ -868,7 +867,7 @@ textarea {
   color: var(--text-normal);
 }
 #app-mount .userPopoutOuter-3AVBmJ .body-3iLsc4 {
-  background: (--white);
+  background: transparent;
 }
 #app-mount .userPopoutOuter-3AVBmJ .roles-3zC7MX {
   gap: 4px;
