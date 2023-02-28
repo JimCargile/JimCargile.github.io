@@ -931,7 +931,7 @@ textarea {
   display: none;
 }
 #app-mount .userPopoutOuter-3AVBmJ .userProfileInnerNonPremium-1XjSjn .overlayBackground-1KgwVi {
-  background: var(--gradient-90);
+  background: var(--background-secondary);
 }
 #app-mount .userPopoutOuter-3AVBmJ.theme-light .inputDefault-3FGxgL::-moz-placeholder {
   color: #000;
