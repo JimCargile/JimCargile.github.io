@@ -800,7 +800,7 @@ textarea {
   overflow: hidden !important;
   position: relative;
   border-radius: 8px;
-  opacity: 0;
+  opacity: 50;
   animation: fadeIn 0.3s ease forwards;
   padding: 0;
 }
