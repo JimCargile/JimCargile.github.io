@@ -913,11 +913,11 @@ textarea {
   color: var(--text-focus);
 }
 #app-mount .userPopoutOuter-3AVBmJ .footer-1fjuF6 {
-  background: var(--background-secondary);
+  background: rgba(255, 255, 255, 0.3);
   border: none;
 }
 #app-mount .userPopoutOuter-3AVBmJ .quickMessage-1yeL4E {
-  background: var(--background-secondary);
+  background: rgba(255, 255, 255, 0.3);
   border: none;
   color: var(--text-normal);
 }
