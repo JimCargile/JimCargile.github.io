@@ -1178,7 +1178,7 @@ textarea {
   background: var(--background-secondary);
 }
 #app-mount .userProfileModalOuter-1FYL8T .userProfileInnerWithBanner-3CJ1Og {
-  background: 2b2d31;
+  background: #2b2d31;
 }
 #app-mount .userProfileModalOuter-1FYL8T .userProfileInnerWithBanner-3CJ1Og::before {
   background: linear-gradient(var(--profile-gradient-primary-color), var(--profile-gradient-primary-color) 120px, var(--profile-gradient-secondary-color));
