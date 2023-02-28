@@ -800,7 +800,7 @@ textarea {
   overflow: hidden !important;
   position: relative;
   border-radius: 8px;
-  opacity: 50;
+  opacity: 0;
   animation: fadeIn 0.3s ease forwards;
   padding: 0;
 }
@@ -843,7 +843,7 @@ textarea {
   margin: 0 8px 8px;
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerNormal-T_seeN {
-  background: var(--gradient-50);
+  background: var(--black);
 }
 #app-mount .userPopoutOuter-3AVBmJ .headerPlaying-j0WQBV {
   background: var(--gradient-50);
@@ -868,7 +868,7 @@ textarea {
   color: var(--text-normal);
 }
 #app-mount .userPopoutOuter-3AVBmJ .body-3iLsc4 {
-  background: var(--gradient-50);
+  background: transparent;
 }
 #app-mount .userPopoutOuter-3AVBmJ .roles-3zC7MX {
   gap: 4px;
@@ -882,7 +882,7 @@ textarea {
 }
 #app-mount .userPopoutOuter-3AVBmJ .role-2TIOKu {
   margin: 0;
-  background: var(--gradient-50);
+  background: transparent;
   position: relative;
   border-radius: 10px;
   overflow: hidden;
@@ -913,7 +913,7 @@ textarea {
   color: var(--text-focus);
 }
 #app-mount .userPopoutOuter-3AVBmJ .footer-1fjuF6 {
-  background: #000;
+  background: transparent;
   border: none;
 }
 #app-mount .userPopoutOuter-3AVBmJ .quickMessage-1yeL4E {
@@ -941,7 +941,7 @@ textarea {
 }
 
 #app-mount [role=menu] {
-  box-shadow: 10px 10px 8px #888888;
+  box-shadow: none;
   animation: fadeIn 0.3s ease forwards;
 }
 #app-mount .focused-3afm-j .check-1JyqgN {
