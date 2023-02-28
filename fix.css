@@ -868,7 +868,7 @@ textarea {
   color: var(--text-normal);
 }
 #app-mount .userPopoutOuter-3AVBmJ .body-3iLsc4 {
-  background: transparent;
+  background: (--white);
 }
 #app-mount .userPopoutOuter-3AVBmJ .roles-3zC7MX {
   gap: 4px;
